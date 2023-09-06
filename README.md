@@ -1,15 +1,18 @@
 # chatbot-back
 Chatbot backend repository
 This repo contains the following folders:
--
-- 
+- **API**
+- **Pipeline**
+- **Analisis**
 
 
-Model Architecture:
+
+### Model Architecture:
 
 Coder:
 
 Decoder:
 
-Gnereator:
+Genereator:
+
 
